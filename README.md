@@ -1,2 +1,4 @@
-# Colabnotebook
-Jupiter-notebook form Google Cola
+# Colab notebook
+
+
+Jupiter-notebook form Google Colab
